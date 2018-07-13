@@ -9,7 +9,6 @@ class Spaceship extends React.Component{
       <h2>{this.props.speed}</h2>
       <h2>{this.props.hasRockets}</h2>
       <h2>{this.props.colors}</h2>
-      
       </div>
     )
   }
